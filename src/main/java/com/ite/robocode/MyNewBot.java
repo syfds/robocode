@@ -5,27 +5,18 @@
  * which accompanies this distribution, and is available at
  * https://robocode.sourceforge.io/license/epl-v10.html
  */
-package sample;
-
+package com.ite.robocode;
 
 import robocode.HitByBulletEvent;
 import robocode.HitRobotEvent;
 import robocode.Robot;
 import robocode.ScannedRobotEvent;
+
+import java.awt.Color;
+
 import static robocode.util.Utils.normalRelativeAngleDegrees;
 
-import java.awt.*;
-
-
-/**
- * Fire - a sample robot by Mathew Nelson, and maintained.
- * <p>
- * Sits still. Spins gun around. Moves when hit.
- *
- * @author Mathew A. Nelson (original)
- * @author Flemming N. Larsen (contributor)
- */
-public class Fire extends Robot {
+public class MyNewBot extends Robot {
 	int dist = 50; // distance to move when we're hit
 
 	/**
