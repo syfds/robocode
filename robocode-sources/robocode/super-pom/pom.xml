@@ -17,6 +17,13 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
 		<robocode.dotnet.version>1.9.3.9</robocode.dotnet.version> <!-- Only X.X.X.X format -->
 		<javadoc.additionalparam/>
 	</properties>
+	
+	<distributionManagement>
+		<repository>
+			<id>github</id>
+			<url>https://maven.pkg.github.com/it-economics</url>
+		</repository>
+	</distributionManagement>
 
 	<build>
 		<pluginManagement>
@@ -120,9 +127,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-deploy-plugin</artifactId>
-				<executions>
-
-				</executions>
+				<version>1.8.2</version>
 			</plugin>
 		</plugins>
 		<resources>
