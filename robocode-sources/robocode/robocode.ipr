@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CodeStyleManager">
+    <option name="USE_DEFAULT_CODE_STYLE_SCHEME" value="true" />
+    <option name="CODE_STYLE_SCHEME" value="" />
+  </component>
+  <component name="CompilerConfiguration">
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="robocode.host" />
+        <module name="robocode.api" />
+        <module name="robocode.distribution" />
+        <module name="robocode.tests" />
+        <module name="robocode.installer" />
+        <module name="robocode.roborumble" />
+        <module name="robocode.core" />
+        <module name="robocode.content" />
+        <module name="robocode.samples" />
+        <module name="robocode.tests.robots" />
+        <module name="robocode.ui" />
+        <module name="robocode.repository" />
+        <module name="robocode.ui.editor" />
+        <module name="robocode.sound" />
+        <module name="robocode.battle" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="robocode" target="1.6" />
+      <module name="robocode.api" target="1.6" />
+      <module name="robocode.battle" target="1.6" />
+      <module name="robocode.content" target="1.6" />
+      <module name="robocode.core" target="1.6" />
+      <module name="robocode.distribution" target="1.6" />
+      <module name="robocode.host" target="1.6" />
+      <module name="robocode.installer" target="1.6" />
+      <module name="robocode.repository" target="1.6" />
+      <module name="robocode.roborumble" target="1.6" />
+      <module name="robocode.samples" target="1.6" />
+      <module name="robocode.sound" target="1.6" />
+      <module name="robocode.tests" target="1.6" />
+      <module name="robocode.tests.robots" target="1.6" />
+      <module name="robocode.ui" target="1.6" />
+      <module name="robocode.ui.editor" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/robocode.api/src/main/java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/robocode.battle/src/main/java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/robocode.content/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/robocode.core/src/main/java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/robocode.core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/robocode.host/src/main/java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/robocode.installer/src/main/java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/robocode.repository/src/main/java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/robocode.roborumble/src/main/java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/robocode.samples/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/robocode.samples/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/robocode.sound/src/main/java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/robocode.sound/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/robocode.tests.robots/src/main/java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/robocode.tests.robots/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/robocode.tests/src/main/java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/robocode.ui.editor/src/main/java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/robocode.ui/src/main/java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/robocode.ui/src/main/resources" charset="UTF-8" />
+  </component>
+  <component name="EntryPointsManager">
+    <entry_points />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="PRINT_LINE_NUMBERS" value="false" />
+    <option name="OPEN_IN_BROWSER" value="false" />
+    <option name="OUTPUT_DIRECTORY" />
+  </component>
+  <component name="ImportConfiguration">
+    <option name="VENDOR" />
+    <option name="RELEASE_TAG" />
+    <option name="LOG_MESSAGE" />
+    <option name="CHECKOUT_AFTER_IMPORT" value="true" />
+  </component>
+  <component name="InspectionProjectProfileManager">
+    <profile version="1.0">
+      <option name="myName" value="Project Default" />
+    </profile>
+    <version value="1.0" />
+  </component>
+  <component name="JUnitProjectSettings">
+    <option name="TEST_RUNNER" value="UI" />
+  </component>
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" />
+    <option name="OPTION_SCOPE" value="protected" />
+    <option name="OPTION_HIERARCHY" value="false" />
+    <option name="OPTION_NAVIGATOR" value="false" />
+    <option name="OPTION_INDEX" value="false" />
+    <option name="OPTION_SEPARATE_INDEX" value="false" />
+    <option name="OPTION_USE_1_1" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_USE" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_AUTHOR" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_VERSION" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_DEPRECATED" value="false" />
+    <option name="OPTION_DEPRECATED_LIST" value="false" />
+    <option name="OTHER_OPTIONS" />
+    <option name="HEAP_SIZE" />
+    <option name="OPEN_IN_BROWSER" value="false" />
+  </component>
+  <component name="JikesSettings">
+    <option name="DEBUGGING_INFO" value="true" />
+    <option name="DEPRECATION" value="true" />
+    <option name="GENERATE_NO_WARNINGS" value="false" />
+    <option name="GENERATE_MAKE_FILE_DEPENDENCIES" value="false" />
+    <option name="DO_FULL_DEPENDENCE_CHECK" value="false" />
+    <option name="IS_INCREMENTAL_MODE" value="false" />
+    <option name="IS_EMACS_ERRORS_MODE" value="true" />
+    <option name="ADDITIONAL_OPTIONS_STRING" value="" />
+    <option name="MAXIMUM_HEAP_SIZE" value="128" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/robocode.iml" filepath="$PROJECT_DIR$/robocode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/robocode.api/robocode.api.iml" filepath="$PROJECT_DIR$/robocode.api/robocode.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/robocode.battle/robocode.battle.iml" filepath="$PROJECT_DIR$/robocode.battle/robocode.battle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/robocode.content/robocode.content.iml" filepath="$PROJECT_DIR$/robocode.content/robocode.content.iml" />
+      <module fileurl="file://$PROJECT_DIR$/robocode.core/robocode.core.iml" filepath="$PROJECT_DIR$/robocode.core/robocode.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/robocode.distribution/robocode.distribution.iml" filepath="$PROJECT_DIR$/robocode.distribution/robocode.distribution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/robocode.host/robocode.host.iml" filepath="$PROJECT_DIR$/robocode.host/robocode.host.iml" />
+      <module fileurl="file://$PROJECT_DIR$/robocode.installer/robocode.installer.iml" filepath="$PROJECT_DIR$/robocode.installer/robocode.installer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/robocode.repository/robocode.repository.iml" filepath="$PROJECT_DIR$/robocode.repository/robocode.repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/robocode.roborumble/robocode.roborumble.iml" filepath="$PROJECT_DIR$/robocode.roborumble/robocode.roborumble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/robocode.samples/robocode.samples.iml" filepath="$PROJECT_DIR$/robocode.samples/robocode.samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/robocode.sound/robocode.sound.iml" filepath="$PROJECT_DIR$/robocode.sound/robocode.sound.iml" />
+      <module fileurl="file://$PROJECT_DIR$/robocode.tests/robocode.tests.iml" filepath="$PROJECT_DIR$/robocode.tests/robocode.tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/robocode.tests.robots/robocode.tests.robots.iml" filepath="$PROJECT_DIR$/robocode.tests.robots/robocode.tests.robots.iml" />
+      <module fileurl="file://$PROJECT_DIR$/robocode.ui/robocode.ui.iml" filepath="$PROJECT_DIR$/robocode.ui/robocode.ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/robocode.ui.editor/robocode.ui.editor.iml" filepath="$PROJECT_DIR$/robocode.ui.editor/robocode.ui.editor.iml" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.6" />
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="eclipse-staging" />
+      <option name="name" value="eclipse-staging" />
+      <option name="url" value="https://repo.eclipse.org/content/repositories/eclipse-staging" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+  </component>
+  <component name="libraryTable">
+    <library name="Maven: junit:junit:4.11">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: net.sf.robocode:codesize:1.2">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/net/sf/robocode/codesize/1.2/codesize-1.2.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/net/sf/robocode/codesize/1.2/codesize-1.2-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/net/sf/robocode/codesize/1.2/codesize-1.2-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.apache.bcel:bcel:6.2">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/apache/bcel/bcel/6.2/bcel-6.2.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/apache/bcel/bcel/6.2/bcel-6.2-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/apache/bcel/bcel/6.2/bcel-6.2-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.hamcrest:hamcrest-core:1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.picocontainer:picocontainer:2.14.2">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/picocontainer/picocontainer/2.14.2/picocontainer-2.14.2.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/picocontainer/picocontainer/2.14.2/picocontainer-2.14.2-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/picocontainer/picocontainer/2.14.2/picocontainer-2.14.2-sources.jar!/" />
+      </SOURCES>
+    </library>
+  </component>
+</project>
